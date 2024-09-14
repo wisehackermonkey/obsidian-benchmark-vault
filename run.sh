@@ -1,3 +1,3 @@
 mkdir ./test_vault/
 rm -rf ./test_vault/*
-python create_million_files.py 10000
+create_test_vault_files.py 10000
