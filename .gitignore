@@ -1,5 +1,6 @@
 # project specific
 .obsidian
+logseq
 test_vault/
 # Python specific
 .env
